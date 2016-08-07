@@ -7,7 +7,8 @@ import org.testng.annotations.AfterTest;
 public class NewTest {
   @Test
   public void f() {
-	  System.out.println("A1B");
+	  System.out.println("A1B1");
+	  System.out.println("changed new");
   }
   @BeforeTest
   public void beforeTest() {
